@@ -32,6 +32,8 @@ This project demonstrates the following data analytics skills and concepts:
 ---
 
 ## Visualization & Analysis
+<img width="1124" height="623" alt="image" src="https://github.com/user-attachments/assets/0e9262ca-6863-44cb-b165-3086ac38562d" />
+
 
 ### Revenue & Profit Insights
 - The business generates **strong overall revenue and profit**, indicating healthy performance.  
@@ -77,7 +79,7 @@ This project demonstrates the following data analytics skills and concepts:
 ---
 
 ## Interactive Dashboard
-You can interact with the live dashboard **[HERE](#)**  
+You can interact with the live dashboard **[HERE](https://app.powerbi.com/view?r=eyJrIjoiYmIwY2QwYmUtNzQzZS00ODcyLWI2MzAtNWIwYjMyZTZiMGJmIiwidCI6IjY2ZGMxYzVhLWY4YjMtNGU1ZS1hMmZkLWQ2NThlMGJlZGJmNiJ9)**  
 
 ---
 
