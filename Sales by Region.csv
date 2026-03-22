@@ -1,0 +1,60 @@
+region,state_province,order_count,total_revenue,customer_count
+West,California,1021,457687.6315,577
+East,"New York",562,310876.2710,415
+Central,Texas,487,170188.0458,370
+West,Washington,256,138641.2700,224
+East,Pennsylvania,288,116511.9140,257
+South,Florida,200,89473.7080,181
+Central,Illinois,276,80166.1010,237
+East,Ohio,236,78258.1360,202
+Central,Michigan,117,76269.6140,106
+South,Virginia,115,70636.7200,107
+South,"North Carolina",136,55603.1640,122
+Central,Indiana,73,53555.3600,70
+South,Georgia,91,49095.8400,83
+South,Kentucky,61,36591.7500,58
+East,"New Jersey",61,35764.3120,61
+West,Arizona,108,35282.0010,100
+Central,Wisconsin,53,32114.6100,52
+West,Colorado,79,32108.1180,75
+South,Tennessee,91,30661.8730,84
+Central,Minnesota,44,29863.1500,42
+East,Massachusetts,62,28634.4340,62
+East,Delaware,44,27451.0690,43
+East,Maryland,46,23705.5230,45
+East,"Rhode Island",25,22627.9560,25
+Central,Missouri,30,22205.1500,28
+Central,Oklahoma,34,19683.3900,34
+South,Alabama,34,19510.6400,34
+West,Oregon,56,17431.1500,51
+West,Nevada,23,16729.1020,23
+East,Connecticut,45,13384.3570,43
+South,Arkansas,27,11678.1300,27
+West,Alberta,8,11460.1860,3
+West,Utah,26,11220.0560,26
+South,Mississippi,26,10771.3400,25
+South,Louisiana,21,9217.0300,21
+East,Vermont,6,8929.3700,5
+South,"South Carolina",20,8481.7100,19
+Central,Nebraska,23,7464.9300,23
+East,"New Hampshire",17,7292.5240,17
+East,Ontario,17,7009.0120,5
+West,Montana,8,5589.3520,8
+West,"New Mexico",22,4783.5220,22
+Central,Iowa,17,4579.7600,17
+West,Idaho,11,4382.4860,11
+East,Quebec,35,3826.9600,13
+Central,Kansas,14,2914.3100,14
+East,"District of Columbia",4,2865.0200,4
+West,"British Columbia",14,2763.2000,5
+Central,Manitoba,4,1930.7820,2
+West,Wyoming,1,1603.1360,1
+Central,"South Dakota",5,1315.5600,5
+East,Maine,3,1270.5300,3
+East,"West Virginia",2,1209.8240,2
+East,"Prince Edward Island",4,1087.9160,5
+Central,"North Dakota",2,919.9100,2
+East,"Newfoundland and Labrador",5,515.2000,1
+East,"Nova Scotia",6,382.1440,1
+East,"New Brunswick",7,225.6960,1
+West,Saskatchewan,2,132.3980,1
